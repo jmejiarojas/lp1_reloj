@@ -11,8 +11,6 @@ public class Hilo extends Thread{
 	
 	private JPanel panel;
 	private JLabel lbl;
-	//private Color cPanel = null;
-	//private Color cLabel = null;
 	
 	public Hilo(JLabel lbl, JPanel panel) {
 		this.lbl = lbl;
